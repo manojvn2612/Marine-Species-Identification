@@ -1,0 +1,13 @@
+
+train: train_data2/images/train # train images (relative to 'path') 4 images
+val: train_data2/images/val # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: Acanthascinae
+  1: Bathochordaeus
+  2: Lampocteis_cruentiventer
+  3: Nanomia
+
+# # Download script/URL (optional)
+# download: https://ultralytics.com/assets/coco8.zip
