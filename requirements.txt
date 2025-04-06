@@ -1,0 +1,9 @@
+torch==2.4.1
+torch-directml==0.2.5.dev240914
+torchvision==0.19.1
+pandas==2.2.3
+pillow==11.1.0
+numpy==2.0.2
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+streamlit==1.44.1
