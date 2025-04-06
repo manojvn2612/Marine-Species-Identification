@@ -7,3 +7,4 @@ numpy==2.0.2
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 streamlit==1.44.1
+fathomnet-1.8.0
